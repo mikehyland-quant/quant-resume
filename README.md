@@ -1,2 +1,2 @@
 # quant-resume
-This folder holds my quant resume.
+This repository holds my quant resume.

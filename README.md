@@ -45,5 +45,6 @@ Additional repositories include:
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/hylandmike/]
-Email: [michael.j.hyland@icloud.com]  
+LinkedIn: https://www.linkedin.com/in/hylandmike/
+
+Email: michael.j.hyland@icloud.com
